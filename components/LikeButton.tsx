@@ -49,7 +49,7 @@ const LikeButton:React.FC<LikeButtonProps> = ({
         }
         if(isLiked){
             const {error} = await supabaseClient
-            .from('liked_song')
+            .from('liked_songs')
             .delete()
             .eq('user_id', user.id)
             .eq('song_id', songId);
