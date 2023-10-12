@@ -24,3 +24,7 @@
 ### 회원가입 & 로그인
 <img width="400" alt="image" src="https://github.com/Jaek1783/spotify_clone/assets/73649967/24b873da-4665-4077-9253-f320d25bafdd">
 <img width="400" alt="image" src="https://github.com/Jaek1783/spotify_clone/assets/73649967/ff9807c4-9f2a-43dd-83dd-c09f79989c59">
+
+### 검색 & 즐겨찾기
+<img width="400" alt="image" src="https://github.com/Jaek1783/spotify_clone/assets/73649967/07f9b2c9-242e-4802-bee6-7d18e53ff729">
+<img width="400" alt="image" src="https://github.com/Jaek1783/spotify_clone/assets/73649967/4d9e3f8f-99ef-4bf6-b7e2-0c4a5dd066f9">
