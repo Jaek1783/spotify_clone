@@ -15,3 +15,12 @@
 - typescript 사용으로 기존 스킬의 스킬 업
 
 ## Web 소개
+
+### 메인페이지
+<img width="400" alt="image" src="https://github.com/Jaek1783/spotify_clone/assets/73649967/e18a8b14-c16d-48a1-8af7-eb2e4d2ce6df">
+<img width="400" alt="image" src="https://github.com/Jaek1783/spotify_clone/assets/73649967/67c5785a-28de-4463-b648-9b9d658d8d5f">
+
+
+### 회원가입 & 로그인
+<img width="400" alt="image" src="https://github.com/Jaek1783/spotify_clone/assets/73649967/24b873da-4665-4077-9253-f320d25bafdd">
+<img width="400" alt="image" src="https://github.com/Jaek1783/spotify_clone/assets/73649967/ff9807c4-9f2a-43dd-83dd-c09f79989c59">
